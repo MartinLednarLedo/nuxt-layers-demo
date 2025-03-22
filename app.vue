@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Button variant="primary" />
+    <Button variant="newOverridenVariant" />
 
     <CustomLink variant="primary" />
   </div>

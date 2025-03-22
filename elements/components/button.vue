@@ -1,5 +1,8 @@
 <script setup lang="ts">
-import { type ButtonStyleProps, buttonStyles } from "./button.styles";
+import {
+  type ButtonStyleProps,
+  buttonStyles,
+} from "@/components/button.styles";
 
 interface Props {
   variant?: ButtonStyleProps["intent"];
